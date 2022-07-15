@@ -1,0 +1,117 @@
+{
+	"id": "92fcae9f-79a7-44c0-a7b5-f88260591a26",
+	"name": "Local",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "emailAdmin",
+			"value": "edgardtest@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "senhaAdmin",
+			"value": "28081997",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "emailClient",
+			"value": "edgardtestclient@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "senhaClient",
+			"value": "28081997",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "emailInvalido",
+			"value": "emailinvalido.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "senhaInvalida",
+			"value": "senhaInválida",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "carrinhoID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "nomeProduto",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "precoProduto",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "descProduto",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "senha",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productIDs",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "adminID",
+			"value": "0uxuPY0cbmQhpEz1",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-07-15T16:41:24.018Z",
+	"_postman_exported_using": "Postman/9.24.2"
+}
